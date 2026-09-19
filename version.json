@@ -1,6 +1,6 @@
 {
+  "version": "0.9.20 Beta 4",
   "zipUrl": "https://raw.githubusercontent.com/HAMNexus/HAMNexus-Updates/main/HAMNexus_Update.zip",
-  "sha256": "5F5AF5BA7F7EA8A6D981B93355BBC781379B4323C80011D567A57039BD8A8A1E",
-  "version": "0.9.18 Beta 2",
-  "notes": "HAMNexus Internet-Update"
+  "notes": "HAMNexus Internet-Update",
+  "sha256": "160CD101BD9DE1286593D4DCA831F8BBBC0BA81CED54DC3992582928A9783BE9"
 }
