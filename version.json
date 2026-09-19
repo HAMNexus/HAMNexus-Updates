@@ -1,6 +1,6 @@
 {
-  "notes": "QSL-Status korrigiert: eQSL und LoTW trennen Gesendet und Empfangen. Neues HAMNexus-Fenster für die Meldung, dass die installierte Version aktuell ist. Verbesserungen am Internet-Update.",
-  "version": "0.9.26 Beta 10",
   "zipUrl": "https://raw.githubusercontent.com/HAMNexus/HAMNexus-Updates/main/HAMNexus_Update.zip",
-  "sha256": "F20651FBA8D500FDBE7DABE14CB66B5127B889BDC43DF6E3150A1D316FE159B8"
+  "version": "2026.09.19",
+  "notes": "Beta-Testkorrekturen: UTC-QSO-Uhr läuft synchron, ESC verwirft die aktuelle Eingabe, Locator/DOK-Nachschlagen verbessert. Seriennummer bei der Ersteinrichtung entfernt. QSL-Anzeige und Benutzerhandbuch verbessert.",
+  "sha256": "3F245EEAB532C906A0EBFC55B950A07D3D44895C7CDF562F6750274091C16ADC"
 }
