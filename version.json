@@ -1,6 +1,6 @@
 {
-  "zipUrl": "https://raw.githubusercontent.com/HAMNexus/HAMNexus-Updates/main/HAMNexus_Update.zip",
   "notes": "QSL-Status korrigiert: eQSL und LoTW trennen Gesendet und Empfangen. Neues HAMNexus-Fenster für die Meldung, dass die installierte Version aktuell ist. Verbesserungen am Internet-Update.",
-  "sha256": "69D01771652A1E4C947CE44B130B9CB549441E21BF77DEA4E87019E35537EB27",
-  "version": "0.9.24 Beta 8"
+  "version": "0.9.26 Beta 10",
+  "zipUrl": "https://raw.githubusercontent.com/HAMNexus/HAMNexus-Updates/main/HAMNexus_Update.zip",
+  "sha256": "F20651FBA8D500FDBE7DABE14CB66B5127B889BDC43DF6E3150A1D316FE159B8"
 }
