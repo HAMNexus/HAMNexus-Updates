@@ -1,6 +1,6 @@
 {
-  "sha256": "680474F9D884B6197CDC59AB5C9842D1080BE1E3A1C21F83A7A5FEB44D72AF9B",
-  "zipUrl": "https://raw.githubusercontent.com/HAMNexus/HAMNexus-Updates/main/HAMNexus_Update.zip",
+  "sha256": "A11B5D0F190D9F446D11EB698613A11C356AB4235E004B3502E90342B2632120",
   "notes": "Beta-Testkorrekturen: UTC-QSO-Uhr synchronisiert sich bei neuen QSOs, ESC verwirft die Eingabe, Locator und DOK werden aus aktuellen Callbook-Daten ergänzt. QSL-Status wird nicht aus früheren QSOs übernommen. Passwörter und API-Schlüssel werden in den Online-Einstellungen verdeckt angezeigt.",
-  "version": "2026.09.20"
+  "version": "2026.09.20",
+  "zipUrl": "https://raw.githubusercontent.com/HAMNexus/HAMNexus-Updates/main/HAMNexus_Update.zip"
 }
