@@ -1,6 +1,6 @@
 {
-  "sha256": "04AEFB8AE1AA33539A609FCB1D0ACCB226A595CB08F51DD05328DBDB227BF6FF",
-  "version": "2026.09.22.6",
   "notes": "Online-Korrekturen: eQSL-Übertragung auf den Logger-WebService umgestellt, DOK-Übernahme verbessert und automatischer Neustart nach Internet-Update stabilisiert. QRZ-Webupload wird weiter über den angemeldeten QRZ-Importweg geprüft.",
-  "zipUrl": "https://raw.githubusercontent.com/HAMNexus/HAMNexus-Updates/main/HAMNexus_Update.zip"
+  "zipUrl": "https://raw.githubusercontent.com/HAMNexus/HAMNexus-Updates/main/HAMNexus_Update.zip",
+  "sha256": "E375FD7788AA70AFBE1096B7A9599A149C30F48770E8588DD20A697D2382B251",
+  "version": "2026.09.22.7"
 }
